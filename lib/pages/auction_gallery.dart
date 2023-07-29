@@ -117,19 +117,11 @@ class _AuctionGalleryState extends State<AuctionGallery> {
                 style: TextStyle(color: Colors.white,fontSize: 18),),
                 Padding(
                   padding: const EdgeInsets.only(left :15.0),
-                  child: Text("Shivam Saini",style: TextStyle(color: Colors.white,fontSize:15),),
+                  child: Text("Poorva Upman",style: TextStyle(color: Colors.white,fontSize:15),),
                 ),
                 Padding(
                   padding: const EdgeInsets.only(left :15.0),
-                  child: Text("Shreyans Khabia",style: TextStyle(color: Colors.white,fontSize:15),),
-                ),
-                Padding(
-                  padding: const EdgeInsets.only(left :15.0),
-                  child: Text("Manan Jain",style: TextStyle(color: Colors.white,fontSize:15),),
-                ),
-                Padding(
-                  padding: const EdgeInsets.only(left :15.0),
-                  child: Text("Pratik Meena",style: TextStyle(color: Colors.white,fontSize:15),),
+                  child: Text("Sakshi Sakhare",style: TextStyle(color: Colors.white,fontSize:15),),
                 ),
                ],
               ),
